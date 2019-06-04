@@ -15,3 +15,5 @@ To make your own copy:
 - Create a repo with a README.md similar to this one.
 - Use the [binder instructions](https://mybinder.org/) to create a badge.
 - Add `requirements.txt` (stuff that needs to be installed by pip).
+
+Test editing and round trip.
