@@ -1,8 +1,8 @@
 # RISE-Demo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/RISE-Demo/master?filepath=RISE-Demo.ipynb) jupyter notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/RISE-Demo/PUG-Princeton-6-10-2019?filepath=RISE-Demo.ipynb) jupyter notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/RISE-Demo/master?urlpath=lab/tree/RISE-Demo.ipynb) jupyterlab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fm75/RISE-Demo/PUG-Princeton-6-10-2019?urlpath=lab/tree/RISE-Demo.ipynb) jupyterlab
 
 Example of creating reveal.js slide show with executable slides.
 
